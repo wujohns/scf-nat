@@ -10,7 +10,7 @@
   "devDependencies": {
     "http-proxy-agent": "^4.0.1",
     "https-proxy-agent": "^5.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "node-fetch": "^2.6.0",
     "node-ssh": "^7.0.0",
     "proxy-agent": "^3.1.1"
